@@ -192,7 +192,7 @@ i.service-icon {
 /* Map */
 
 .map {
-  height: 100%;
+  height: initial;
 }
 
 /* Footer */
