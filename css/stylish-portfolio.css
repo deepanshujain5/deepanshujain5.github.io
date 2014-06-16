@@ -192,7 +192,7 @@ i.service-icon {
 /* Map */
 
 .map {
-  height: initial;
+  height: inherit;
 }
 
 /* Footer */
@@ -230,7 +230,7 @@ i.scroll:hover {
   }
 
   .map {
-	height: inherit;
+	height: 60%;
   }
 
 }
